@@ -18,6 +18,6 @@ chmod 007 ~/linux_practice/test2/file2.txt
 chmod 755 ~/linux_practice/test3/file3.txt
 
 # Create script file
-echo -e "#!/bin/bash\n\necho 'Hello, World!'" > ~/linux_practice/hello.sh
+echo -e '#\!/bin/bash\n\necho "Hello, World!"' > ~/linux_practice/hello.sh
 
 
