@@ -33,5 +33,3 @@ Move the txt files in dir1 to their corresponding folders. But move four.txt to 
 #### Assignment #4
 Rename four.txt to ***three.txt***
 
-#### Assignment #5
-Try to view file2, if you have issues, resolve them and note how you resolved them
